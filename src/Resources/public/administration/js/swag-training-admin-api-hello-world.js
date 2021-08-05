@@ -1,0 +1,1 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([["swag-training-admin-api-hello-world"],{c1LD:function(i,n){console.log("SwagTrainingAdminApiHelloWorld: Loading JS logic")}},[["c1LD","runtime"]]]);
