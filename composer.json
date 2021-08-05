@@ -1,0 +1,17 @@
+{
+  "name": "swag-training/shopware6-admin-api-hello-world",
+  "description": "Hello World for the Admin API",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SwagTraining\\AdminApiHelloWorld\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\AdminApiHelloWorld\\SwagTrainingAdminApiHelloWorld",
+    "label": {
+      "en-GB": "Hello World for the Admin API"
+    }
+  }
+}
